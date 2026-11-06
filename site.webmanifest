@@ -1,6 +1,6 @@
 {
-  "name": "SR-Doku Protokoll",
-  "short_name": "SR-Protokoll",
+  "name": "SR-Doku Basic",
+  "short_name": "SR-Basic",
   "description": "Strukturierte Dokumentation der Schockraumversorgung (Dokumentationssoftware, kein Medizinprodukt)",
   "start_url": "./",
   "scope": "./",
@@ -9,8 +9,22 @@
   "background_color": "#04070e",
   "theme_color": "#04070e",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ]
 }
