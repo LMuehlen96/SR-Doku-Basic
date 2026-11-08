@@ -2,11 +2,13 @@
 
 *Basic* = schlank, für die MDR unkritisch. Die erweiterte Variante *SR-Doku Pro* (Prototyp, MDR-Prüfung ausstehend) liegt im Repo SR-Doku.
 
-Software zur strukturierten Dokumentation der Schockraumversorgung durch medizinisches Fachpersonal (Version 0.1.0, Stand 06.11.2026).
+Software zur strukturierten Dokumentation der Schockraumversorgung durch medizinisches Fachpersonal (Version 0.2.0, Stand 08.11.2026).
 
 **Vorabversion.** Die Zweckbestimmung befindet sich in rechtlicher Prüfung.
 
-SR-Doku Basic – Dokumentationssoftware, kein Medizinprodukt. Version 0.1.0, Stand 06.11.2026.
+**Zweckbestimmung:** Strukturierte Dokumentation der Schockraumversorgung und Anzeige klinikeigener, für alle Patienten gleicher Listen und Dokumente. Die Software wertet keine Patientendaten aus, berechnet keine Scores, sortiert oder hebt nichts nach Patientendaten hervor, löst keine Warnungen oder Alarme aus und gibt keine diagnostischen oder therapeutischen Empfehlungen.
+
+SR-Doku Basic – Dokumentationssoftware, nicht als Medizinprodukt bestimmt. Version 0.2.0, Stand 08.11.2026.
 
 ## Inhalt dieses Repositorys
 
