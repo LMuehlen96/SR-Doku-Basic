@@ -24,6 +24,7 @@ Settings → Pages → Source „Deploy from a branch“, Branch `main`, Ordner 
 
 ## Datenhaltung
 
+- Lokales Konto (Registrierung/Anmeldung) nur auf dem Gerät; der gespeicherte Fall ist je Konto verschlüsselt (AES-256-GCM). Kein Server.
 - Alle Falldaten bleiben lokal im Browser des Geräts.
 - Kein Server, keine Telemetrie, keine Anfragen an Dritte.
 - Übergabe an ein anderes Gerät nur per verschlüsseltem QR-Code mit mündlich weitergegebenem 8-stelligem Code.
